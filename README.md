@@ -26,7 +26,7 @@ $$ l\ddot{\theta} - \mu\dot{\theta}+ g\sin(\theta) = 0 $$
 
 ## 简谐运动(无阻力)
 
-$m\ddot{x} + kx = 0$用角频率$\omega = \sqrt{\frac{k}{m}}$表示为：
+$m\ddot{x} + kx = 0$用角频率 $\omega = \sqrt{\frac{k}{m}}$ 表示为：
 
 $$
 \ddot{x} + \omega^2x = 0

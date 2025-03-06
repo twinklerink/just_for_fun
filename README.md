@@ -40,7 +40,7 @@ $$
 
 这是一个
 
-$$
+$
 \begin{pmatrix}
     \ddot{x} \\
     \dot{x}
@@ -50,4 +50,4 @@ $$
     \ddot{x} \\
     \dot{x}
 \end{pmatrix}$
-$$
+$
